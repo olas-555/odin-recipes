@@ -1,0 +1,18 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+h1 {
+    color: darkred;
+}
+a {
+    color: navy;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+ul, ol {
+    background-color: white;
+    padding: 15px;
